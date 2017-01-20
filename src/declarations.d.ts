@@ -12,6 +12,5 @@
   https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html
 */
 declare module '*';
-
 declare module 'Auth0';
 declare module 'Auth0Lock';
